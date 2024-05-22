@@ -7,7 +7,7 @@ de l’informatique et ont conduit les ordinateurs à réaliser des tâches de p
 qui ne pouvaient être auparavant que déléguées à un humain.
 
 
-1960 : Naissance de l’IA dans le sillage de la cybernétique
+### 1960 : Naissance de l’IA dans le sillage de la cybernétique
 
 L’époque entre 1940 et 1960 a été fortement marquée par la conjonction de développements 
 technologiques et la volonté de comprendre comment faire se rejoindre le fonctionnement des 
@@ -20,7 +20,7 @@ Début 1950, John Von Neumann et Alan Turing ne vont pas créer le terme d’IA 
 les pères fondateurs de la technologie qui la sous-tend : ils ont opéré la transition 
 entre les calculateurs à la logique décimale du XIXème siècle et des machines à la logique binaire .
 
-1990 : Les systèmes experts
+### 1990 : Les systèmes experts
 
 En 1968 Stanley Kubrick réalisera le film « 2001 l’Odyssée de l’espace » où un ordinateur – HAL 9000 
 résume en lui-même toute la somme de questions éthiques posées par l’IA : arrivée à un haut niveau de 
@@ -31,7 +31,7 @@ science-fiction Philip K. Dick, qui ne cessera de s’interroger si, un jour, le
 et entre dans l’âge d’or des systèmes experts.
 
 
-Depuis 2010 : un nouvel essor à partir des données massives et d’une nouvelle puissance de calcul
+### Depuis 2010 : un nouvel essor à partir des données massives et d’une nouvelle puissance de calcul
 
 Deux facteurs expliquent le nouvel essor de la discipline aux alentours de 2010.
 - L’accès tout d’abord à des volumes massifs des données. Pour pouvoir utiliser des algorithmes de classification 
@@ -99,12 +99,14 @@ données et prendre des décisions. Ces systèmes utilisent des instructions con
 "si-alors" pour résoudre des problèmes spécifiques. Bien qu'ils soient limités dans leur capacité à 
 apprendre et à s'adapter, ces systèmes peuvent être très efficaces pour des tâches clairement 
 définies.
-Exemple Personnel :
+- Exemple Personnel :
 IA pour Jeu Vidéo : J'ai personnellement codé un système d'IA pour un jeu vidéo. Cette IA est 
 strictement programmée à l'avance, utilisant un algorithme complexe qui choisit la meilleure action 
 possible en fonction d'un score attribué à chaque action. L'algorithme évalue les options disponibles
 et sélectionne celle avec le score le plus élevé, assurant ainsi une performance optimale dans le jeu.
-Les Catégories d'Intelligence Artificielle
+
+### Les Catégories d'Intelligence Artificielle
+
 - L'Intelligence Artificielle Étroite (ANI)
 L'intelligence artificielle étroite, aussi connue sous le nom d'IA faible, se concentre sur des tâches 
 spécifiques et bien définies. Contrairement aux formes plus avancées d'IA, l'ANI n'a pas la capacité 
@@ -143,7 +145,7 @@ l’apprentissage automatique qui utilise des réseaux neuronaux profonds pour m
 des problèmes complexes. Ces réseaux sont inspirés du fonctionnement du cerveau humain et sont 
 capables d’apprendre des représentations hiérarchiques des données.
 
-Conclusion
+### Conclusion
 
 Les différentes méthodes d'apprentissage des IA, ainsi que les systèmes strictement programmés, 
 offrent une gamme d'outils puissants pour les entreprises et les développeurs. Ces outils permettent 
