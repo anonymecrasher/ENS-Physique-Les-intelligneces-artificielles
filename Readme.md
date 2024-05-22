@@ -105,39 +105,39 @@ strictement programmée à l'avance, utilisant un algorithme complexe qui choisi
 possible en fonction d'un score attribué à chaque action. L'algorithme évalue les options disponibles
 et sélectionne celle avec le score le plus élevé, assurant ainsi une performance optimale dans le jeu.
 Les Catégories d'Intelligence Artificielle
-1. L'Intelligence Artificielle Étroite (ANI)
+- L'Intelligence Artificielle Étroite (ANI)
 L'intelligence artificielle étroite, aussi connue sous le nom d'IA faible, se concentre sur des tâches 
 spécifiques et bien définies. Contrairement aux formes plus avancées d'IA, l'ANI n'a pas la capacité 
 de raisonner ou de généraliser à partir d'expériences multiples. Elle est programmée pour accomplir 
 une seule tâche ou un ensemble restreint de tâches.
 très élevé.
-2. L'Intelligence Artificielle Générale (AGI)
+- L'Intelligence Artificielle Générale (AGI)
 L'intelligence artificielle générale, ou IA forte, fait référence à une IA capable de comprendre, 
 apprendre et appliquer des connaissances de manière générale, semblable à l'intelligence humaine. 
 L'AGI peut théoriquement accomplir toute tâche intellectuelle qu'un être humain peut réaliser, avec 
 la capacité de généraliser d'une situation à une autre.
-3. La Superintelligence Artificielle (ASI)
+- La Superintelligence Artificielle (ASI)
 La superintelligence artificielle est une hypothétique IA qui surpasserait l'intelligence humaine dans
 tous les domaines, y compris la créativité scientifique, la sagesse générale et les compétences 
 sociales. L'ASI représenterait le sommet de l'évolution de l'IA, capable d'améliorer ses propres 
 capacités au-delà des limites humaines.
-4. L’Apprentissage Supervisé
+- L’Apprentissage Supervisé
 L’apprentissage supervisé est une technique d’apprentissage automatique où un modèle d’IA est 
 entraîné sur un ensemble de données étiquetées. Cela signifie que chaque donnée d’entraînement est
 associée à une étiquette ou une réponse connue. Le modèle apprend à associer les caractéristiques 
 des données aux étiquettes correspondantes, et une fois l’entraînement terminé, il peut prédire les 
 étiquettes pour de nouvelles données non étiquetées.
-5. L’Apprentissage Non Supervisé
+- L’Apprentissage Non Supervisé
 À la différence de l’apprentissage supervisé, l’apprentissage non supervisé ne nécessite pas de 
 données étiquetées pour l’entraînement. Le modèle d’IA cherche à découvrir des structures ou des 
 motifs cachés dans les données sans recevoir de réponses préalables. Il regroupe les données 
 similaires, identifie des clusters et trouve des corrélations.
-6. L’Apprentissage par Renforcement
+- L’Apprentissage par Renforcement
 L’apprentissage par renforcement est une approche où un agent d’IA apprend à prendre des 
 décisions en interagissant avec un environnement. L’agent prend une série d’actions et reçoit des
 récompenses ou des pénalités en fonction de la qualité de ses décisions. L’objectif de l’agent est de 
 maximiser les récompenses cumulées au fil du temps.
-7. L’Apprentissage Profond (Deep Learning)
+- L’Apprentissage Profond (Deep Learning)
 L’apprentissage profond, également connu sous le nom de Deep Learning, est une sous-catégorie de
 l’apprentissage automatique qui utilise des réseaux neuronaux profonds pour modéliser et résoudre 
 des problèmes complexes. Ces réseaux sont inspirés du fonctionnement du cerveau humain et sont 
