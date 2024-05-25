@@ -110,7 +110,6 @@ et sélectionne celle avec le score le plus élevé, assurant ainsi une performa
 spécifiques et bien définies. Contrairement aux formes plus avancées d'IA, l'ANI n'a pas la capacité 
 de raisonner ou de généraliser à partir d'expériences multiples. Elle est programmée pour accomplir 
 une seule tâche ou un ensemble restreint de tâches.
-très élevé.
 - L'Intelligence Artificielle Générale (AGI) ou IA forte, fait référence à une IA capable de comprendre, 
 apprendre et appliquer des connaissances de manière générale, semblable à l'intelligence humaine. 
 L'AGI peut théoriquement accomplir toute tâche intellectuelle qu'un être humain peut réaliser, avec 
