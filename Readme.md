@@ -92,6 +92,7 @@ méthodes d'apprentissage automatique, telles que l'apprentissage supervisé, l'
 supervisé, l'apprentissage par renforcement et l'apprentissage profond (Deep Learning), sont 
 essentielles pour développer ces IA. Chaque approche et chaque catégorie représente un niveau 
 distinct de complexité et de compétence.
+
 L'IA Basée sur les Règles c'est l'une des formes les plus anciennes et les plus simples d'intelligence 
 artificielle. Elle fonctionne en utilisant un ensemble prédéfini de règles logiques pour traiter les 
 données et prendre des décisions. Ces systèmes utilisent des instructions conditionnelles du type 
@@ -115,21 +116,21 @@ très élevé.
 apprendre et appliquer des connaissances de manière générale, semblable à l'intelligence humaine. 
 L'AGI peut théoriquement accomplir toute tâche intellectuelle qu'un être humain peut réaliser, avec 
 la capacité de généraliser d'une situation à une autre.
-- La Superintelligence Artificielle (ASI) c'est une hypothétique IA qui surpasserait l'intelligence humaine dans
+- La Superintelligence Artificielle (ASI) est une hypothétique IA qui surpasserait l'intelligence humaine dans
 tous les domaines, y compris la créativité scientifique, la sagesse générale et les compétences 
 sociales. L'ASI représenterait le sommet de l'évolution de l'IA, capable d'améliorer ses propres 
 capacités au-delà des limites humaines.
-- L’Apprentissage Supervisé c'est une technique d’apprentissage automatique où un modèle d’IA est 
+- L’Apprentissage Supervisé est une technique d’apprentissage automatique où un modèle d’IA est 
 entraîné sur un ensemble de données étiquetées. Cela signifie que chaque donnée d’entraînement est
 associée à une étiquette ou une réponse connue. Le modèle apprend à associer les caractéristiques 
 des données aux étiquettes correspondantes, et une fois l’entraînement terminé, il peut prédire les 
 étiquettes pour de nouvelles données non étiquetées.
 - L’Apprentissage Non Supervisé
-À la différence de l’apprentissage supervisé, cette apprentissage ne nécessite pas de 
+À la différence du supervisé, cette apprentissage ne nécessite pas de 
 données étiquetées pour l’entraînement. Le modèle d’IA cherche à découvrir des structures ou des 
 motifs cachés dans les données sans recevoir de réponses préalables. Il regroupe les données 
 similaires, identifie des clusters et trouve des corrélations.
-- L’Apprentissage par Renforcement ; c'est une approche où un agent d’IA apprend à prendre des 
+- L’Apprentissage par Renforcement ; est une approche où un agent d’IA apprend à prendre des 
 décisions en interagissant avec un environnement. L’agent prend une série d’actions et reçoit des
 récompenses ou des pénalités en fonction de la qualité de ses décisions. L’objectif de l’agent est de 
 maximiser les récompenses cumulées au fil du temps.
