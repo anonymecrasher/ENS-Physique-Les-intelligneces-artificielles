@@ -130,7 +130,7 @@ des données aux étiquettes correspondantes, et une fois l’entraînement term
 données étiquetées pour l’entraînement. Le modèle d’IA cherche à découvrir des structures ou des 
 motifs cachés dans les données sans recevoir de réponses préalables. Il regroupe les données 
 similaires, identifie des clusters et trouve des corrélations.
-- L’Apprentissage par Renforcement ; est une approche où un agent d’IA apprend à prendre des 
+- L’Apprentissage par Renforcement ; est une approche où un agent qui apprend à prendre des 
 décisions en interagissant avec un environnement. L’agent prend une série d’actions et reçoit des
 récompenses ou des pénalités en fonction de la qualité de ses décisions. L’objectif de l’agent est de 
 maximiser les récompenses cumulées au fil du temps.
