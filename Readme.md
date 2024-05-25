@@ -92,8 +92,7 @@ méthodes d'apprentissage automatique, telles que l'apprentissage supervisé, l'
 supervisé, l'apprentissage par renforcement et l'apprentissage profond (Deep Learning), sont 
 essentielles pour développer ces IA. Chaque approche et chaque catégorie représente un niveau 
 distinct de complexité et de compétence.
-L'IA Basée sur les Règles et les Systèmes Strictement Programmés
-L'IA basée sur les règles est l'une des formes les plus anciennes et les plus simples d'intelligence 
+L'IA Basée sur les Règles c'est l'une des formes les plus anciennes et les plus simples d'intelligence 
 artificielle. Elle fonctionne en utilisant un ensemble prédéfini de règles logiques pour traiter les 
 données et prendre des décisions. Ces systèmes utilisent des instructions conditionnelles du type 
 "si-alors" pour résoudre des problèmes spécifiques. Bien qu'ils soient limités dans leur capacité à 
