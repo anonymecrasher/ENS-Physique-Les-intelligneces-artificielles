@@ -100,8 +100,7 @@ données et prendre des décisions. Ces systèmes utilisent des instructions con
 apprendre et à s'adapter, ces systèmes peuvent être très efficaces pour des tâches clairement 
 définies.
 - Exemple Personnel :
-IA pour Jeu Vidéo : J'ai personnellement codé un système d'IA pour un jeu vidéo. Cette IA est 
-strictement programmée à l'avance, utilisant un algorithme complexe qui choisit la meilleure action 
+IA pour Jeu Vidéo : J'ai personnellement codé un système d'IA pour un jeu vidéo. Cette IA utilise un algorithme complexe qui choisit la meilleure action 
 possible en fonction d'un score attribué à chaque action. L'algorithme évalue les options disponibles
 et sélectionne celle avec le score le plus élevé, assurant ainsi une performance optimale dans le jeu.
 
